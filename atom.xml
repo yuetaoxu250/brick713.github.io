@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://yuetaoxu250.github.io/brick713.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-11-01T11:52:21.814Z</updated>
+    <updated>2020-11-02T11:46:23.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://yuetaoxu250.github.io/brick713.github.io/"/>
     <link rel="self" href="https://https://yuetaoxu250.github.io/brick713.github.io/atom.xml"/>
@@ -39,6 +39,22 @@
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://https://yuetaoxu250.github.io/brick713.github.io/post/about/</id>
+        <link href="https://https://yuetaoxu250.github.io/brick713.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！<br>
+🤝我是冯颀的爹</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
 ]]></content>
     </entry>
     <entry>
